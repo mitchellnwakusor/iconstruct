@@ -1,0 +1,56 @@
+{
+    "Formula": {
+        "Mathematical": {
+            "Area of Triangle": "A = ½ * bh",
+            "Area of Rectangle": "A = lw",
+            "Area of Trapezoid": "A = ½ * h(b₁ + b₂)",
+            "Area of Parllelogram": "A = bh",
+            "Area of Circle": "A = πr²",
+            "Volume of Right Circular Cone": "V = ⅓(πr²h)",
+            "Volume of Pyramid": "V = ⅓ * Bh",
+            "Volume of Sphere": "V = ⁴/₃(πr³)",
+            "Volume of Right Circular Cylinder": "V = πr²h",
+            "Volume of Right Prism": "V = Bh",
+            "Point-Slope Form": "y -y₁ = m(x - x₁)",
+            "Standard Linear Equation Form": "Ax + By = C",
+            "Slope-Intercept Form": "y = mx + b ",
+            "Distance between two points": "AB = √( (x₂ - x₁)² + (y₂ - y₁)² )",
+            "Midpoint between two points": "AB = ( (x₂ + x₁)/₂, (y₂ + y₁)/₂ )",
+            "Slope of line through two points": "m = (y₂ - y₁) / (x₂ - x₁)",
+            "Pythagorean Theorem": "c² = a² + b²",
+            "Quadratic Formula": "x = (-b ± √b² - 4ac) / 2a"
+        },
+        "Chemistry": {
+            "Dilution": "M₁V₁ = M₂v₂",
+            "Energy of a Photon ": "Ephoton = hf = hc/y",
+            "Pressure": "P = F / A",
+            "Ideal Gas Law": "PV = nRT",
+            "Combined Gas Law": "P₁V₁/N₁T₁ = P₂v₂/N₂T₂",
+            "Osmotic Pressure ": "π = iMRT",
+            "Reaction Quotient": "Q = [products]/[reactants]",
+            "Enthalphy of Formation": "∆H₁ = ∑n∆H∘₁(product) - ∑n∆H∘₁(reactants)",
+            "First Law of Thermodynamics": "∆E = q + w",
+            "Pressure Volume Work": "w = -P∆V",
+            "Heat Curves & Thermal Energy": "q = mc∆T",
+            "Gibb's Free Energy": "∆G∘ = ∆H∘ - T∆S∘",
+            "Nuclear Binding Energy": "E = ∆mc²"
+        },
+        "Physics": {
+            "Velocity": "v = v₀ + at",
+            "Kinetic Energy": "KE = ½ * mv²",
+            "Change in Potential Energy": "∆PE = mg∆y",
+            "Change in Energy": "∆E = W = Fdcosθ",
+            "Electric Potential": "∆V = IR",
+            "Current": "∆q/∆t",
+            "Molar gas Constant": "R = 8.314J/(mol K)",
+            "Avogadro's Number": "NA = 6.023 * 10²³mol¯¹)",
+            "Charge of Electron": "e = 1.602 * 10¯¹⁹C)",
+            "Faraday'S constant": "F = 96485 C/mol)",
+            "Bohr Radius": "a₀ = 0.529 * 10¯²⁴J/T",
+            "Standard Atmosphere": "atm = 1.01325 * 10⁵Pa",
+            "Wien displacement constant": "b = 2.9 * 10¯³mK",
+            "Wave": "wave = ∆x∆t",
+            "Work done": "W = ∆KE"
+        }
+    }
+}
